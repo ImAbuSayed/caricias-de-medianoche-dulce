@@ -1,4 +1,4 @@
-# Caricias de medianoche dulce
+# Caricias de medianoche dulce, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Caricias de medianoche dulce |
+| **Title** | Caricias de medianoche dulce, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-de-medianoche-dulce/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Caricias de medianoche dulce](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-medianoche-dulce/) |
+| **Get License** | [Official Music Licensing for Caricias de medianoche dulce, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-medianoche-dulce/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bebé, la noche pide calle y tú estás pa' mí,
+> Desde que te vi bailando, no me quiero ir.
+> Esa mirada tuya sabe lo que va a pasar,
+> Caricias de medianoche, te voy a robar.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `4468f753a7c9453e5f6fe70f06fbce0436692442784979317f83e772cd1962fa` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
